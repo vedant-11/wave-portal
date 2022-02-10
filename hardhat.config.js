@@ -20,9 +20,9 @@ module.exports = {
   solidity: "0.8.0",
   networks: {
     rinkeby: {
-      url: "https://eth-rinkeby.alchemyapi.io/v2/RbauMvYukT_pwMIyOwcME_qFDVX_E08t",
+      url: "https://eth-rinkeby.alchemyapi.io/v2/",
       accounts: [
-        "23cfecc5f18371ca7dd022df367cc9f72ebd94367231e63f6f8f112795cdbb98",
+        "",
       ],
     },
   },
